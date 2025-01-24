@@ -1,10 +1,11 @@
 ### short
 
-- setup.py
 - git project
+- 0.0.1
 
 ### medium
 
 ### done
 
+- setup.py
 - refactor module names
