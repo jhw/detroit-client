@@ -58,7 +58,7 @@ def filter_packages(root):
     
 setuptools.setup(
     name="detroit-client",
-    version="0.0.1",
+    version="0.0.2",
     author="jhw",
     author_email="justin.worrall@gmail.com",
     description="A client for detroit-factory",
