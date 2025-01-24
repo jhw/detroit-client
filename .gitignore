@@ -3,3 +3,4 @@ __pycache__
 env
 /samples
 tmp
+setenv-priv.sh
