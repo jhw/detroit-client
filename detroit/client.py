@@ -1,8 +1,8 @@
 from botocore.exceptions import ClientError
 
-from detroit.cognito_auth import fetch_token
-from detroit.samples_api import list_tags, list_sources, list_samples
-from detroit.samples_api import fetch_samples as _fetch_samples
+from detroit.auth import fetch_token
+from detroit.api import list_tags, list_sources, list_samples
+from detroit.api import fetch_samples as _fetch_samples
 
 import os
 import re
